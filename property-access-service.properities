@@ -1,2 +1,3 @@
 
 property-file-name="test"
+message = Hello world
